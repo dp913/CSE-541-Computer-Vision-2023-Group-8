@@ -19,8 +19,3 @@ The presentation folder contains the mide-semester and end-semester presentation
 
 The Results folder contains the images of the results of different models.
 
-Group 8:
-Dev Patel  AU2040056, 
-Meet Patel AU2040010,
-Manthan Patel AU2040123,
-Sagar Bajaj AU2040252
